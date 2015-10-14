@@ -1,0 +1,3 @@
+# genomicsProjectScript
+
+Project for Bioinformatics
